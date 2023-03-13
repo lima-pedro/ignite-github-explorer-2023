@@ -1,5 +1,5 @@
 import { RepositoryList } from './components/RepositoryList';
-import './styles.scss';
+import './styles/styles.scss';
 
 export function App () {
     // throw new Error("error"); testando source map

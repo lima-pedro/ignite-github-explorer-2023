@@ -1,3 +1,5 @@
+import '../styles/repository-list.scss';
+
 import { RepositoryItem } from "./RepositoryItem";
 
 const repository = {
